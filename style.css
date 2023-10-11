@@ -1,0 +1,68 @@
+.masthead-heading,
+.masthead-intro,
+.socials{
+	text-align: center;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+
+}
+
+.masthead {
+	padding: 1em 0;
+	background-color: #F5FFFA;
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-top: solid 1em #2F4F4F;
+}
+
+.masthead-intro {
+	font-size: 2em;
+}
+
+.masthead-heading {
+	color: #2E8B57;
+	margin-top: -0.2em;
+	font-size: 3em;
+}
+
+.introduction-section > h1 {
+	color: #2F4F4F;
+	font-weight: bold;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.socials {
+  padding: 20px 0;
+  background-color: #66CDAA;
+  text-decoration: none;
+}
+
+.introduction-section > p {
+	font-size: 1em;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.socials > p {
+	color: #FFFFFF;
+	font-size: 1em;
+}
+
+li {
+	display: inline-block;
+	margin: 0 5px;
+}
+
+img{
+	filter: invert(100%);
+	-webkit-filter: invert(100%);
+}
+
+ul {
+	list-style-type:none;
+	display: inline;
+}
+
+a {
+	color: #FFFFFF;
+	font-size: 1em;
+}
+
